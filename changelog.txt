@@ -1,0 +1,31 @@
+# WordPress theme Emmy 1.1.3 #
+* Added - Skip link.
+* Added - Fourth pattern of front-page with parallax effect.
+* Added - d.png image in customization section.
+
+# WordPress theme Emmy 1.1.2 #
+* Chandged - On footer menu the list style type chandged to none.
+* Chandged - The default pattern of front-page chandged to pattern three, on which is shown Home page as starter page.
+* Chandged - widgets style on front-page two pattern.
+* Added - starter content.
+
+# WordPress theme Emmy 1.1.1 #
+* Fixed - Keyboard navigation in main menu.
+* Added - dropdown.js file.
+
+# WordPress theme Emmy 1.1.0 #
+This is a major update with new features and Customizer settings re-structure, if you see any visual changes on the site front-end please go to the Customizer to update options.
+Both design and functionality have improved.
+
+* Removed - Font Awesom CSS, HTML Shiv 3.7.3, main nav background image, slider side section with all its elements, footer widget sections. 
+
+* Chandged - README.txt, screenshot.png, location and style of logo, location of header-image, main nav design for both large and small devices, pagination of pages, posts, pages', posts', single post's, search' archives appearance, widgets' style and location, footer nav section.
+
+* Added - Customizable front page three patterns.
+
+* Apdated - Bootstrap v3.3.7 to Bootstrap v4.5.0. 
+
+
+
+# WordPress theme Emmy 1.0.9 #
+* Release!
